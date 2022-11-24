@@ -33,3 +33,7 @@ npm run build
 ```sh
 npm run test:unit
 ```
+
+
+## Referencia para la instalacion de vuejs por nodejs
+https://vuejs.org/guide/quick-start.html#creating-a-vue-application
